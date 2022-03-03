@@ -42,16 +42,6 @@ function getAllElements(callback){
         // return dat;
     });
 
-    // MongoClient.connect("mongodb://localhost:27017/db1", function (err,db) {
-    //   if (err) {
-    //     return console.dir(err);
-    //   }
-    //   let dbo = db.db(databaseName);
-    //   dbo.find().toArray(function (err, items) {
-    //     console.log(items);       
-    //     return callback(items);     
-    //   });
-    // });
     console.log("data to return is ",dataToReturn);
     // return dataToReturn;
 }
