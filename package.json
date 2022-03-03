@@ -1,0 +1,16 @@
+{
+  "name": "my_backend_for_sample_app",
+  "version": "1.0.0",
+  "description": "my backend for sample social media app",
+  "main": "index.js",
+  "dependencies": {
+    "module": "^1.2.5",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jatin Vashisht",
+  "license": "ISC"
+}
